@@ -7,4 +7,8 @@ public class TestController {
     public void test() {
         System.out.println("111");
     }
+
+    public static void main(String[] args) {
+
+    }
 }
